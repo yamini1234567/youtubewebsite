@@ -1,0 +1,225 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+.top
+{
+    border: solid 0px black;
+    height: 80px;
+    width: 1484px;
+    background-color: black;
+    display: flex;
+    position: fixed;
+   
+}
+.topimg
+{
+    height: 20px;
+    padding-bottom: 26px;
+}
+
+.topyou
+{
+    height: 70px;
+    padding-top: 10px;
+}
+.form
+{
+    
+    width: 600px;
+    height: 40px;
+    border: solid 1px rgba(255, 255, 255, 0.816);
+    background-color: black;
+    border-radius: 20px;
+    font-size: larger;
+    padding-left: 20px;
+    margin-top: 20px;
+    color: white;
+    
+}
+.c1
+{
+    padding-top: 20px;
+}
+
+.micro
+{
+   
+    height: 25px;
+}
+
+.video
+{
+    height: 30px;
+}
+.bell
+{
+    height: 30px;
+}
+
+.circle
+{
+   
+    
+    margin-top: 20px;
+    background-image: url(./images/profile\ photo.jpg);
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    background-size: cover;
+}
+
+.sticky
+    {
+       
+       border:solid 2px black;
+       height: 640px;
+       width: 300px;
+       background-color: black;
+      position: fixed;
+     
+       color: aliceblue;
+       text-align: center;
+       overflow:scroll;
+    }
+
+    .home
+    {
+        height: 30px;
+        border-radius: 15px;
+    }
+.inline
+{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 10px;
+    color: rgba(255, 255, 255, 0.827);
+    font-size: small;
+}
+
+.inline h3
+{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.box1{
+    border:solid 2px black;
+        height: 200px;
+        width: 350px;
+        display: inline-block;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url(./images/box1.webp);
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px gray;
+}
+.box2{
+    border:solid 2px black;
+        height: 200px;
+        width: 350px;
+        display: inline-block;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url(./images/box2.webp);
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px gray;
+
+
+}
+.box3{
+    border:solid 2px black;
+        height: 200px;
+        width: 350px;
+        display: inline-block;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url(./images/box3.webp);
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px gray;
+
+
+}
+.box4{
+    border:solid 2px black;
+        height: 200px;
+        width: 350px;
+        display: inline-block;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url(./images/box4.webp);
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px gray;
+
+
+}
+.box5{
+    border:solid 2px black;
+        height: 200px;
+        width: 350px;
+        display: inline-block;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url(./images/box5.webp);
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px gray;
+
+
+}
+.box6{
+    border:solid 2px black;
+        height: 200px;
+        width: 350px;
+        display: inline-block;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url(./images/box6.webp);
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px gray;
+
+
+}
+
+.container
+{
+    padding-top: 10px;
+    padding-left: 40px;
+    margin-left: 260px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    justify-content:space-evenly;
+   
+
+    
+}
+
+.text
+{
+    color: rgba(255, 255, 255, 0.864);
+    display: block;
+    padding-left: 330px;
+    padding-top: 40px;
+    
+}
+.text2
+{
+    color: rgba(255, 255, 255, 0.864);
+    display: block;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.text3
+{
+    color: rgba(255, 255, 255, 0.864);
+    display: block;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+
+.flex
+{
+    display: flex;
+}
